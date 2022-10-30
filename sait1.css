@@ -48,11 +48,11 @@
 	scroll-behavior: smooth;
 }
 
-#contackt{
-  height: 1000px;
-  background-color: #ffa3f6;
-}
- 
+
+.#contackt{
+	height: 1000px;
+	background-color: #ffa3f6;
+}	
 
 
 .nav_link:hover{
